@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-08-19T02:43:18.994560200Z</date>
+  <millis>1629340998994</millis>
+  <nanos>560200</nanos>
+  <sequence>0</sequence>
+  <logger>org.ssglobal.training.codes.FunList</logger>
+  <level>INFO</level>
+  <class>org.ssglobal.training.codes.FunList</class>
+  <method>enableDisplay</method>
+  <thread>1</thread>
+  <message>execute enableDisplay</message>
+</record>
+<record>
+  <date>2021-08-19T02:43:19.021304800Z</date>
+  <millis>1629340999021</millis>
+  <nanos>304800</nanos>
+  <sequence>1</sequence>
+  <logger>org.ssglobal.training.codes.FunList</logger>
+  <level>WARNING</level>
+  <class>org.ssglobal.training.codes.FunList</class>
+  <method>enableDisplay</method>
+  <thread>1</thread>
+  <message>custom Date is deprecated</message>
+</record>
+<record>
+  <date>2021-08-19T02:43:19.024296900Z</date>
+  <millis>1629340999024</millis>
+  <nanos>296900</nanos>
+  <sequence>2</sequence>
+  <logger>org.ssglobal.training.codes.FunList</logger>
+  <level>INFO</level>
+  <class>org.ssglobal.training.codes.FunList</class>
+  <method>showLines</method>
+  <thread>1</thread>
+  <message>execute showLines</message>
+</record>
+<record>
+  <date>2021-08-19T02:43:19.024296900Z</date>
+  <millis>1629340999024</millis>
+  <nanos>296900</nanos>
+  <sequence>3</sequence>
+  <logger>org.ssglobal.training.codes.FunList</logger>
+  <level>INFO</level>
+  <class>org.ssglobal.training.codes.FunList</class>
+  <method>showLines</method>
+  <thread>1</thread>
+  <message>exit without error showLines</message>
+</record>
+<record>
+  <date>2021-08-19T02:43:19.025294100Z</date>
+  <millis>1629340999025</millis>
+  <nanos>294100</nanos>
+  <sequence>4</sequence>
+  <logger>org.ssglobal.training.codes.FunList</logger>
+  <level>INFO</level>
+  <class>org.ssglobal.training.codes.FunList</class>
+  <method>enableDisplay</method>
+  <thread>1</thread>
+  <message>exit without errors enableDisplay</message>
+</record>
+</log>
